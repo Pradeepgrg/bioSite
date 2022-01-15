@@ -1,0 +1,36 @@
+body {
+    background-color: #ccc;
+    color: #000;
+    text-align: center;
+    margin: 0;
+}
+
+nav {
+    margin-bottom: 20px;
+}
+
+nav ul {
+    font-size: 0;
+}
+
+nav li {
+    display: inline;
+}
+
+nav li a {
+    background-color: #2980b9;
+    height: 50px;
+    padding: 10px;
+    font-size: 18px;
+    color: #C7BB6D;
+    border-right: 1px solid rgba(0,0,0,0.3);
+    border-left: 1px solid rgba(255,255,255,0.3);
+}
+
+nav li a:hover {
+    background-color: #6ff;
+}
+
+.clear {
+    clear:both;
+}
