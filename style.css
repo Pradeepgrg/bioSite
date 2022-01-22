@@ -89,8 +89,8 @@ img {
 }
 
 .author-portrait {
-    width: 450px;
-    height: 450px;
+    width: 400px;
+    height: 400px;
     display: inline-block;
 }
 
@@ -106,7 +106,7 @@ h3, figcaption {
 
 img {
     width: 400px;
-    height: 350px;
+    height: 400px;
 }
 
 figure {
@@ -126,9 +126,5 @@ figcaption {
     font-weight: 400;
 }
 
-.gallery-item {
-    border: 1px solid rgba(185, 63, 8);
-    border-radius: 15px;
-    padding: 5px;
-}
+
 
