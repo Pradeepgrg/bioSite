@@ -122,5 +122,26 @@ figcaption {
     font-weight: 400;
 }
 
+#feedback {
+    padding-top: 30px;
+    font-family: 'Open-sans', Arial, sans-serif;
+}
+
+#feedback fieldset {
+    padding: 20px !important
+}
+
+input, textarea {
+    margin: 15px 20px !important;
+}
+
+.submit {
+    margin: 15px 10px !important;
+}
+
+.msg {
+    color: rgb(63,146,23);
+}
+
 
 
