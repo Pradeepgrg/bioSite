@@ -25,7 +25,7 @@ nav li a {
     background-color: #2980b9;
     height: 50px;
     padding: 10px;
-    font-size: 20px;
+    font-size: 24px;
     color: #C7BB6D;
     border-right: 1px solid rgba(0,0,0,0.3);
     border-left: 1px solid rgba(255,255,255,0.3);
@@ -53,6 +53,11 @@ header {
     background-color: white;
 }
 
+header img {
+    float:left;
+    width: 200px;
+    height: 120px;
+}
 p {
     text-align: justify;
     width: 50%;
