@@ -142,6 +142,7 @@ input, textarea {
 
 .submit {
     margin: 15px 10px !important;
+    border-color:#C7BB6D;
 }
 
 .msg {
